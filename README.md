@@ -2,7 +2,7 @@
 ## Project Overview
 The election data received from the client consisted of a number for the ballot ID and a name for the county and candidate, respectively. The goal was to complete the election audit of a recent local congressional election using a set of programmatic tools of Python, Visual Studio Code, and Git.
 ## Election Audit Results:
-The analysis os the election show that:
+The analysis on the requwsted election data show that:
 Using Python and reading in the CSV election data set we determined out of the 369,711 votes some patterns and analysis.
 We created a python script and would read and write data, performed calculations on the counts, and used loops and conditional statements to report our analysis.
 
